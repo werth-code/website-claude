@@ -1,9 +1,1 @@
-# Web Developer Portfolio
-
-A personal portfolio website showcasing web development skills and projects.
-
-## Setup
-
-1. Clone the repository
-2. Run `npm install`
-3. Run `npm start` to launch the development server
+IyBXZWIgRGV2ZWxvcGVyIFBvcnRmb2xpbwoKQSBwZXJzb25hbCBwb3J0Zm9saW8gd2Vic2l0ZSBzaG93Y2FzaW5nIHdlYiBkZXZlbG9wbWVudCBza2lsbHMgYW5kIHByb2plY3RzLgoKIyMgU2V0dXAKCjEuIENsb25lIHRoZSByZXBvc2l0b3J5CjIuIFJ1biBgbnBtIGluc3RhbGxgCjMuIFJ1biBgbnBtIHN0YXJ0YCB0byBsYXVuY2ggdGhlIGRldmVsb3BtZW50IHNlcnZlcg==
