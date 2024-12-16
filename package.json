@@ -1,1 +1,17 @@
-ewoJIm5hbWUiOiAid2ViLWRldmVsb3Blci1wb3J0Zm9saW8iLAoJInZlcnNpb24iOiAiMC4xLjAiLAoJInByaXZhdGUiOiB0cnVlLAoJImRlcGVuZGVuY2llcyI6IHsKCQkicmVhY3QiOiAiXjE4LjIuMCIsCgkJInJlYWN0LWRvbSI6ICJeMTguMi4wIiwKCQkicmVhY3Qtc2NyaXB0cyI6ICI1LjAuMSIsCgkJInJlYWN0LXJvdXRlci1kb20iOiAiXjYuMTYuMCIKCX0sCgkic2NyaXB0cyI6IHsKCQkic3RhcnQiOiAicmVhY3Qtc2NyaXB0cyBzdGFydCIsCgkJImJ1aWxkIjogInJlYWN0LXNjcmlwdHMgYnVpbGQiLAoJCSJ0ZXN0IjogInJlYWN0LXNjcmlwdHMgdGVzdCIsCgkJImVqZWN0IjogInJlYWN0LXNjcmlwdHMgZWplY3QiCgl9Cn0=
+{
+  "name": "web-developer-portfolio",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  }
+}
