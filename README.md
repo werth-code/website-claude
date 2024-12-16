@@ -1,1 +1,9 @@
-V2ViIERldmVsb3BlciBQb3J0Zm9saW8KCkEgcGVyc29uYWwgcG9ydGZvbGlvIHdlYnNpdGUgc2hvd2Nhc2luZyB3ZWIgZGV2ZWxvcG1lbnQgc2tpbGxzIGFuZCBwcm9qZWN0cy4KCiMjIFNldHVwCgoxLiBDbG9uZSB0aGUgcmVwb3NpdG9yeQoyLiBSdW4gYG5wbSBpbnN0YWxsYAozLiBSdW4gYG5wbSBzdGFydGAgdG8gbGF1bmNoIHRoZSBkZXZlbG9wbWVudCBzZXJ2ZXI=
+# Web Developer Portfolio
+
+A personal portfolio website showcasing web development skills and projects.
+
+## Setup
+
+1. Clone the repository
+2. Run `npm install`
+3. Run `npm start` to launch the development server
